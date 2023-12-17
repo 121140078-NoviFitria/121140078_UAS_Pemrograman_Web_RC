@@ -6,3 +6,6 @@
 
 <h2> Poin-Poin UAS PEMWEB </h2>
 <li> Client-side Programming </li>
+<li> Server-side Programming </li>
+<li> Database Management </li>
+<li> State Management </li>
