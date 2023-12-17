@@ -10,8 +10,7 @@
 <li> State Management </li>
 
 # Bagian 1 Client-Side Programming 
-
-![Screenshot 2023-12-18 064046](https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/e6d86696-d98d-464f-a466-537435f59113)
+<img width="960" src="![Screenshot 2023-12-18 064046](https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/e6d86696-d98d-464f-a466-537435f59113)">
 
 <P> Gambar diatas adalah tampilan form yang dibuat dan dapat diakses melalui menu settings dan </P>
 
