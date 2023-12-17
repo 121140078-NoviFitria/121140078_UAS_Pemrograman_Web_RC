@@ -2,4 +2,4 @@
 # Tugas UAS Pemrograman Web 
 ## Nama : Novi Fitria Ramadhan, NIM : 121140078, Kelas : RC 
 
-Pada UAS pemrograman web kali ini diminta untuk melakukan pengembangan web mencakup sisi client dan server. 
+<p> Pada UAS pemrograman web kali ini diminta untuk melakukan pengembangan web mencakup sisi client dan server.</P>
