@@ -14,6 +14,6 @@
 
 <P> Gambar diatas adalah tampilan form yang dibuat dan dapat diakses melalui menu settings dan </P>
 
-![Screenshot 2023-12-18 064440](https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/347e32f6-21ab-4db1-b239-ced3554c05e1)
+<img width="200" alt="Screenshot 2023-12-18 064440" src="https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/347e32f6-21ab-4db1-b239-ced3554c05e1">
 
 <p> Gambar diatas adalah gambar yang menyatakan bahwa halaman login harus diisi, hal ini dilakukan melalui validasi pada javascript. </p>
