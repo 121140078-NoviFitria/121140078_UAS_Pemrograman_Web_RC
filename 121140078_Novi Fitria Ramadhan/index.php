@@ -47,6 +47,7 @@ if (isset($_POST["cari"])) {
                     <a href="index.php">Home</a>
                     <a href="settings.php">Settings</a>
                     <a href="logout.php">Logout</a>
+                    <a href="login.php"> login </a>
                 </div>
             </div>
         </nav>
