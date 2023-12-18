@@ -17,3 +17,7 @@
 <img width="200" alt="Screenshot 2023-12-18 064440" src="https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/347e32f6-21ab-4db1-b239-ced3554c05e1">
 
 <p> Gambar diatas adalah gambar yang menyatakan bahwa halaman login harus diisi, hal ini dilakukan melalui validasi pada javascript. </p>
+
+# Bagian 2 Server-Side Programming 
+<img width="200" alt="Screenshot 2023-12-18 065755" src="https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/d7ee0783-7073-4773-9700-91022a68ae29"
+<p> Gambar diatas merupakang pengolahan data dari </p>
