@@ -19,5 +19,15 @@
 <p> Gambar diatas adalah gambar yang menyatakan bahwa halaman login harus diisi, hal ini dilakukan melalui validasi pada javascript. </p>
 
 # Bagian 2 Server-Side Programming 
-<img width="200" alt="Screenshot 2023-12-18 065755" src="https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/d7ee0783-7073-4773-9700-91022a68ae29"
-<p> Gambar diatas merupakang pengolahan data dari </p>
+<img width="500" alt="Screenshot 2023-12-18 065755" src="https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/d7ee0783-7073-4773-9700-91022a68ae29">
+<p> Gambar diatas merupakang pengolahan data dari form yang diinput oleh pengguna </p>
+
+# Bagian 3 Database Management 
+<img width=200 alt="Screenshot 2023-12-18 081607 src="https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/663a376c-b1fd-4bfd-9e42-ba956b7fe25e">
+
+<p> pada bagian ini saya membuat database untuk menyimpan data yang dimasukan oleh user, beberapa syntax digunakan seperti select, create, read, update, dan delete </p>
+
+<img width=200 alt="Screenshot 2023-12-18 081908" src="https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/4dd66854-4bf4-444f-84be-a63c2446a566"> 
+
+<p> kemudian dilakukan koneksi untuk menghubungkan database dengan script php</p>
+
