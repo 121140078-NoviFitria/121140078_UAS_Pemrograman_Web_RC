@@ -35,3 +35,13 @@
 <p> Lalu dilakukan manipulasi data menggunakan CRUD </p>
 
 # Bagian 4 State Management
+<img width=200 alt='Screenshot 2023-12-18 082425" src="https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/b0716680-6a4f-49ac-89ae-7b5c7c03ed92"> 
+
+<p> Menggunakan session untuk menyimpan dan mengelola state seperti session start untuk menyimpan informasi pengguna </p>
+
+# Bagian Bonus Hosting Aplikasi 
+<p>langkah yang dilakukan untuk menghosting adalah memilih platform hosting gratis, kemudian saya memilih menggunakan infinity free. Setelah itu saya lakukan interuksi dari web hosting tersebut hingga kemudian web saya sudah berhasil dihosting. Keamanan dari peneyedia hosting yang saya pilih sudah cukup mumpuni sehingga saya yakin memilih platform tersebut. saya mengkonfigurasikan antara xampp sebagai database.  </p>
+
+
+
+
