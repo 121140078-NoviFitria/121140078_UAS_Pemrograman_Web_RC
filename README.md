@@ -44,7 +44,7 @@
 # Bagian Bonus Hosting Aplikasi 
 <p>langkah yang dilakukan untuk menghosting adalah memilih platform hosting gratis, kemudian saya memilih menggunakan infinity free. Setelah itu saya lakukan interuksi dari web hosting tersebut hingga kemudian web saya sudah berhasil dihosting. Keamanan dari peneyedia hosting yang saya pilih sudah cukup mumpuni sehingga saya yakin memilih platform tersebut. saya mengkonfigurasikan antara xampp sebagai database.  </p>
 
-<img width=200 alt="Screenshot 2023-12-18 083403" src="https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/223118e4-5edd-4134-aa0e-ecfe4acc0572">
+<img width=400 alt="Screenshot 2023-12-18 083403" src="https://github.com/121140078-NoviFitria/121140078_UAS_Pemrograman_Web_RC/assets/133131095/223118e4-5edd-4134-aa0e-ecfe4acc0572">
 
 
 
